@@ -1,56 +1,36 @@
-[//]: # (Exemplo de README.md)
+# Git and GitHub Essentials Course :octocat:
 
-# Nome do seu projeto
+![Git and GitHub Course](images/git-github-course-banner.png){: style="width:100%; border-radius:10px;"}
 
-> Um resumo curto sobre o que o seu projeto faz
+## Course Overview :book:
 
-Um ou dois parágrafos sobre o seu projeto e o que ele faz.
+Welcome to the Git and GitHub Essentials Course! This course is designed to take you from a beginner to a proficient user in Git and GitHub. You'll learn everything from basic commands to advanced techniques, and how to use these tools effectively in your software development projects.
 
-[//]: # (Incluo PRINT DO MEU PROJETO)
+## What You Will Learn :mortar_board:
 
-![Exemplo](exemplo.svg)
+- **Chapter 1**: Introduction to Git and GitHub
+- **Chapter 2**: Advanced Git Techniques and Integrating Markdown
+- **Chapter 3**: Collaborating with Git and GitHub
+- **Chapter 4**: Advanced Git Techniques and Workflows
+- **Chapter 5**: Best Practices for Version Control
+- **Chapter 6**: Conclusion and Beyond
 
-## Instalação
+## Prerequisites :warning:
 
-Mac OS X & Linux:
+No prior experience with Git or GitHub is required. Basic knowledge of programming concepts will be helpful.
 
-```sh
-npm install --save
-```
+## How to Use This Course :computer:
 
-Windows:
+Each chapter is designed to build upon the knowledge from the previous one. It's recommended to go through the chapters in order, completing the exercises and quizzes to test your understanding.
 
-```sh
-edit autoexec.bat
-```
+## Contributing :handshake:
 
-## Exemplo de uso
+If you'd like to contribute to this course, please fork the repository and submit a pull request with your changes.
 
-Alguns exemplos que motivariam as pessoas a utilizarem seu projeto ou que demonstrasse que este é útil para alguma coisa. Divida esta parte em partes menores e se possível coloque algum código ou prints de telas.
+## License :balance_scale:
 
-## Ambiente de Desenvolvimento
+This course is released under the [MIT License](LICENSE).
 
-Descrever com instalar e preparar qualquer dependência de desenvolvimento para que seu projeto possa ser executado localmente e pessoas possam contrinuir com o mesmo. Se possível, forneça as informações para diferentes plataformas, exemplo Windows, Linux ou Mac OS.
+---
 
-## Histórico de Atualizações
-
-* 0.2.1
-  * CHANGE: Atualização dos docs (o código não foi alterado)
-* 0.2.0
-  * CHANGE: Removida a função `setPadraoXYZ()`
-  * ADD: Adicionada a função `inicializar()`
-* 0.1.1
-  * FIX: Crash ao executar `escrever()` (Obrigado ao @Contribuidor)
-* 0.1.0
-  * Primeiro lançamento estável
-  * CHANGE: Renomeado de `Projeto XYX` para `Projeto ABC`
-* 0.0.1
-  * Projeto inicial
-
-## Meta
-
-Seu nome - [@SeuTwitter](https://twitter.com/seuTwitter) - seuemail@gmail.com
-
-Distribuído sobre a licença. Veja a `LICENÇA` para mais informações.
-
-[https://github.com/seuusuario/seuprojeto](https://github.com/seuusuario)
+Happy Learning! :sparkles:

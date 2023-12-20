@@ -1,6 +1,6 @@
 # Git and GitHub Essentials Course
 
-![Git and GitHub Course](images/git_github_course_banner.png){: style="width:100%; border-radius:10px;"}
+<img src="images/git_github_course_banner.png" alt="Git and GitHub Course" style="width: 100%; border-radius: 10px;">
 
 ## Course Overview :book:
 
